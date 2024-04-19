@@ -1,5 +1,3 @@
-// f6PnjwGcCNJhWk5iDmFEYA6LyDmlAFEUu39jamVq-d4
-
 const accessKey = "f6PnjwGcCNJhWk5iDmFEYA6LyDmlAFEUu39jamVq-d4";
 
 const formE1 = document.querySelector("form");
